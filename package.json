@@ -1,0 +1,25 @@
+{
+  "name": "dav10-oop-program",
+  "version": "1.0.0",
+  "description": "Object Oriented Program Concepts",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pro10-oop-program": "index.js"
+  },
+  "keywords": [],
+  "author": "Foqia Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
